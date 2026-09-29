@@ -1,0 +1,4 @@
+# Nmap 7.99 scan initiated Tue Sep 29 18:32:33 2026 as: /usr/lib/nmap/nmap --privileged -p 445 -oG smb.txt 192.168.59.129
+Host: 192.168.59.129 ()	Status: Up
+Host: 192.168.59.129 ()	Ports: 445/open/tcp//microsoft-ds///
+# Nmap done at Tue Sep 29 18:32:33 2026 -- 1 IP address (1 host up) scanned in 0.61 seconds
