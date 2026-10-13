@@ -5,7 +5,6 @@
 Bài thực hành LAB6 xây dựng hệ thống mạng sử dụng **pfSense CE 2.7.2** với bốn vùng mạng **WAN, MGMT, LAN và DMZ**. Nội dung thực hành gồm kết nối xác thực **LDAP/Active Directory**, thiết lập **Captive Portal**, tạo **Aliases**, cấu hình chính sách **Firewall** và kiểm tra nhật ký truy cập.
 YT:https://youtu.be/TEq691Avsg4
 
-> **Trạng thái:** Đang thực hiện. Chỉ đánh dấu hoàn thành các mục sau khi đã cấu hình và kiểm thử thành công.
 
 ## 2. Mục tiêu
 
